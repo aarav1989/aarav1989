@@ -81,8 +81,6 @@
 
 ### ⚡ Fun Fact
 I enjoy analyzing attacks and turning them into defense strategies 🔐 
-<h1 align="center">Hi 👋, I'm Aarav Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 ---
 
 ### 📊 GitHub Stats
