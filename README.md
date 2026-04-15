@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarav Sharma</h1>
-<h3 align="center">Cybersecurity Analyst (Fresher) | SOC & VAPT Enthusiast</h3>
+<h3 align="center">Cybersecurity Analyst | SOC & VAPT Enthusiast</h3>
 
 ---
 
