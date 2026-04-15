@@ -83,13 +83,6 @@
 I enjoy analyzing attacks and turning them into defense strategies 🔐 
 <h1 align="center">Hi 👋, I'm Aarav Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **Designed secure VPN architecture using IPSec & SSL/TLS - Implemented AES-256 encryption and Multi-Factor Authentication - Ensured secure communication across networks**
-
-- 📫 How to reach me **aaravsharma5682@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 ---
 
 ### 📊 GitHub Stats
