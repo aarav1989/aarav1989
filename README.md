@@ -75,11 +75,7 @@
 - Passionate about securing systems and networks  
 - Continuously learning and building hands-on labs  
 
----
-
-### 📫 Contact Me
-- 📧 aaravsharma5682@gmail.com  
-- 📍 Delhi, India  
+--- 
 
 ---
 
